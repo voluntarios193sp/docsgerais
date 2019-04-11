@@ -10,6 +10,8 @@ Se você é UX, Designer Mobile/Web ou desenvolvedor PHP, C# ou Javascript e que
 
 https://chat.whatsapp.com/BzJrkeTCT0g7tIRHK6dGTa
 
+Video da reunião inicial com explicações dos requisitos de negócio: https://drive.google.com/open?id=10eooL-rAGhIA7cgLBDm0RaOfsXK6c6ns
+
 ## Google Drive do projeto
 
 Documentações gerais sobre os projetos: fluxogramas, portarias, normas e instruções normativas
