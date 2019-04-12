@@ -22,7 +22,17 @@ Documentações gerais sobre os projetos: fluxogramas, portarias, normas e instr
 
 https://drive.google.com/drive/folders/19BcdaxSZdmc5muCaPZog1MH80WJ0DMuh?usp=sharing
 
-## Gestão de tarefas
+## Algumas informações úteis para orientar a sua participação
+
+### Participação
+
+Diferente de outros projetos open source e colaborativos, teremos de ser mais diretos e ser muito mais executivos. Ou seja, é fazer acontecer.
+
+Voluntariado pressupõe *disponbilidade de tempo, conhecimento para executar tarefas e participar de reuniões e atividades*. Antes de entrar nos subgrupos de trabalho, faça uma autocrítica: *eu realmente posso me dedicar*? 
+
+Caso não possa, tudo bem. Fique no grupo principal do Whatsapp e vá acompanhando os eventos e em breve sua ajuda como tester do projeto será muito valiosa.
+
+### Gestão de tarefas
 
 Vamos usar as issues do proprio Github. Fique à vontade de abrir uma issue e também a contribuir com um PullRequest.
 
