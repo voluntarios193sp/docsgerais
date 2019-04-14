@@ -26,9 +26,11 @@ https://drive.google.com/drive/folders/19BcdaxSZdmc5muCaPZog1MH80WJ0DMuh?usp=sha
 
 ### Participação
 
+Não peça, faça. Aqui você ajuda, se doa. Quer aprender? Code e ajude outros voluntários. Seguimos o lema "*Pro Brasilia Fiant Eximia*"
+
 Diferente de outros projetos open source e colaborativos, teremos de ser mais diretos e ser muito mais executivos. Ou seja, é fazer acontecer.
 
-Voluntariado pressupõe *disponbilidade de tempo, conhecimento para executar tarefas e participar de reuniões e atividades*. Antes de entrar nos subgrupos de trabalho, faça uma autocrítica: *eu realmente posso me dedicar*? 
+Voluntariado pressupõe **disponbilidade de tempo, participar de reuniões e atividades**. Antes de entrar nos subgrupos de trabalho, faça uma autocrítica: *eu realmente posso me dedicar*? 
 
 Caso não possa, tudo bem. Fique no grupo principal do Whatsapp e vá acompanhando os eventos e em breve sua ajuda como tester do projeto será muito valiosa.
 
