@@ -41,7 +41,7 @@ Vamos usar as issues do proprio Github. Fique à vontade de abrir uma issue e ta
 ### Modelo de gerenciamento
 
 Temos uma meta ambiciosa e precisamos estar muito focados. 
-Algumas premissas *Simples é lindo* e *ótimo é inimigo do bom* e *um bom papo é melhor que mil documentos no Word* são adotadas nesse projeto.
+Algumas premissas **Simples é lindo** e **ótimo é inimigo do bom** e **um bom papo é melhor que mil documentos no Word** são adotadas nesse projeto.
 
 Felizmente somos muitos. Assim sendo, nem sempre teremos consenso e não temos tempo para muitas discussões. Algumas decisões terão de ser votadas.
 Contamos com a maturidade dos voluntários para entender que nem sempre as suas opiniões poderão prevalecer e mesmo assim não desistir do projeto
